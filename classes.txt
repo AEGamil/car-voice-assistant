@@ -1,0 +1,19 @@
+1:open the car door
+2:close the car door
+3:turn on the interior light
+4:turn off the interior light
+5:turn on headlights
+6:turn off headlights
+7:unlock the truck
+8:lock the trunk
+9:
+10:
+11:
+12:
+13:
+14:
+15:
+16:
+17:
+18:
+19:
